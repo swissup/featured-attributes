@@ -2,9 +2,9 @@
     "name": "swissup/featured-attributes",
     "description": "Show selected attributes in the product listing",
     "type": "metapackage",
-    "version": "1.1.8",
+    "version": "1.1.9",
     "license": "OSL-3.0",
     "require": {
-        "swissup/module-featured-attributes": "^1.1.7"
+        "swissup/module-featured-attributes": "^1.1.9"
     }
 }
